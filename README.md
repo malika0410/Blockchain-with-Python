@@ -39,3 +39,5 @@ streamlit run pychain.py
    ![image](https://github.com/malika0410/Blockchain-with-Python/blob/main/images/demo_screenshot.PNG)
 
    ![image](https://github.com/malika0410/Blockchain-with-Python/blob/main/images/demo_streamlit_run.PNG)
+
+   ![image](https://github.com/malika0410/Blockchain-with-Python/blob/main/images/full_streamlit_snapshot.PNG)
